@@ -8,5 +8,6 @@ namespace WpfApp1.src
 {
     class MVAdd
     {
+        Calc calc;
     }
 }
